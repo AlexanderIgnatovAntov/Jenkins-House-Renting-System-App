@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AfbJTLOf1k4zlfDGsKvZcONrWjmzPV7pO4sSGI6RKx8BUSiPx1fEEk/0FOWnO1rgA72phv8y0DxCaD+6ru6mLA==",
+  "dgSpecHash": "hzK34WmfT7iBt/kOV+gVhIyOJQOWGrKkUnk3ktRJy+jHeV1SW6l6N18JasB/SDeLcKvId7ExVLlbPqz+u2qEwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rome_\\source\\repos\\SoftUni\\Back-End Test Automation\\Exercise Continuous Integration (CI) - part 2\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
+  "projectFilePath": "C:\\Users\\rome_\\OneDrive\\Desktop\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rome_\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\rome_\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

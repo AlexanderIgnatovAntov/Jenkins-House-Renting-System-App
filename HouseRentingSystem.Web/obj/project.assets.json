@@ -10298,11 +10298,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rome_\\source\\repos\\SoftUni\\Back-End Test Automation\\Exercise Continuous Integration (CI) - part 2\\02-House-Renting-System-App\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj",
+      "projectUniqueName": "C:\\Users\\rome_\\OneDrive\\Desktop\\02-House-Renting-System-App\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj",
       "projectName": "HouseRentingSystem.Web",
-      "projectPath": "C:\\Users\\rome_\\source\\repos\\SoftUni\\Back-End Test Automation\\Exercise Continuous Integration (CI) - part 2\\02-House-Renting-System-App\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj",
+      "projectPath": "C:\\Users\\rome_\\OneDrive\\Desktop\\02-House-Renting-System-App\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj",
       "packagesPath": "C:\\Users\\rome_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rome_\\source\\repos\\SoftUni\\Back-End Test Automation\\Exercise Continuous Integration (CI) - part 2\\02-House-Renting-System-App\\HouseRentingSystem.Web\\obj\\",
+      "outputPath": "C:\\Users\\rome_\\OneDrive\\Desktop\\02-House-Renting-System-App\\HouseRentingSystem.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rome_\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10319,8 +10319,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\rome_\\source\\repos\\SoftUni\\Back-End Test Automation\\Exercise Continuous Integration (CI) - part 2\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj": {
-              "projectPath": "C:\\Users\\rome_\\source\\repos\\SoftUni\\Back-End Test Automation\\Exercise Continuous Integration (CI) - part 2\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj"
+            "C:\\Users\\rome_\\OneDrive\\Desktop\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj": {
+              "projectPath": "C:\\Users\\rome_\\OneDrive\\Desktop\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj"
             }
           }
         }
